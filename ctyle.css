@@ -1,0 +1,204 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+header {
+    background: #101220;
+    height: 64px;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.header-left h3 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+
+
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+select {
+    border: none;
+    background: none;
+    color: white;
+    outline: none;
+}
+
+option {
+    background: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 11px 0px #FFFFFF;
+}
+
+.qovun {
+    background-color: black;
+    border-radius: 10px;
+
+}
+
+.div1 {
+    background: #232028;
+    width: 99px;
+    height: 111px;
+    border-radius: 10px;
+    font-size: 58px;
+    font-weight: 400;
+    line-height: 32px;
+    box-shadow:  11px  #FFFFFF;
+
+
+
+}
+
+.btn {
+    background: none;
+    border: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: white;
+
+}
+
+.btn2 {
+    border: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    background: #333333;
+    background: #BFAFF2;
+    padding: 9px 66px;
+    border-radius: 15px;
+}
+
+.section-one {
+    background: #101220;
+
+
+}
+
+.box {}
+
+h2 {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    text-align: center;
+    color: white;
+
+
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: center;
+    color: white;
+    width: 293px;
+    height: 102px;
+    margin-top: 8px;
+}
+
+.text {
+    background: #232028;
+    width: 300px;
+    height: 242px;
+    padding-top: 88px;
+    border-radius: 32px;
+}
+
+.sc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 17px;
+    padding-top: 117px;
+}
+
+.box img {
+    transform: translateY(65px);
+    transform: translateX(15px);
+    transform: translate3d(20px, 65px, 0);
+}
+
+.footer {
+    background-color: #101220;
+    padding: 20px 40px;
+    
+}
+
+h4 {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    
+    
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer2 {
+    padding-top: 125px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
